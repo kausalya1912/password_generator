@@ -18,7 +18,7 @@ Python
 
 ## Preview
 ### Before
-![Before](Screenshot 2026-06-21 211741.png)
+![Before](before.png)
 
 ### After
-![After](Screenshot 2026-06-21 211816.png)
+![After](after.png)
